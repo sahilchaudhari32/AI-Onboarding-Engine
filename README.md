@@ -122,6 +122,13 @@ AI-Onboarding-Engine/
 | `GET` | `/api/demo` | Fetch pre-built sample data |
 | `GET` | `/health` | System & OpenAI status check |
 
+## UI
+<img width="1416" height="754" alt="image" src="https://github.com/user-attachments/assets/f6bad4e6-e878-4ded-aa97-6ebeac35de95" />
+<br><br>
+<img width="1326" height="749" alt="image" src="https://github.com/user-attachments/assets/3d541294-1f26-4c8e-9cce-cfbfab736490" />
+<br><br>
+<img width="835" height="755" alt="image" src="https://github.com/user-attachments/assets/d3ee6e5b-aae4-418f-9064-b39f252ae70a" />
+<br><br>
 ---
 
 ## 🤝 Contributing
